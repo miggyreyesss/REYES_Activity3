@@ -4,8 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Welcome to Simple Calculator!");
-
         Console.Write("Enter first number: ");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
